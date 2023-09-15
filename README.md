@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working my first web development job!
-🌱 I’m currently learning at the University of Hawaii at Manoa
+🌱 I also study computer science at the University of Hawaii at Manoa
 <!--
 **KaiGarcia/KaiGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
