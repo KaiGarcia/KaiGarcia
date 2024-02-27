@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aloha 🤙
 🔭 I have been a software developer for a little over a year now!
 🌱 I also study computer science at the University of Hawaii at Manoa
 <!--
