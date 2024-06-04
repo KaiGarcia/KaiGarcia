@@ -1,7 +1,9 @@
 ### Aloha 🤙
-🔭 I have been a software engineer for a little over a year now!
+🌺 Software engineer based in Honolulu, Hawaii
 
 🌱 I also study computer science at the University of Hawaii at Manoa.
+
+💸 Associate at the Calvin Shindo Student Venture Fund
 <!--
 **KaiGarcia/KaiGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
