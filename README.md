@@ -1,7 +1,7 @@
 ### Aloha 🤙
 🌺 Software engineer based in Honolulu, Hawaii
 
-🌱 I also study computer science at the University of Hawaii at Manoa.
+🌱 I study computer science at the University of Hawaii at Manoa.
 
 💸 Associate at the Calvin Shindo Student Venture Fund
 <!--
