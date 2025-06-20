@@ -1,9 +1,8 @@
 ### Aloha 🤙
 🌺 Software engineer based in Honolulu, Hawaii
 
-🌱 I study computer science at the University of Hawaii at Manoa.
+🌱 I research sensors and robotics @ [Computational Imaging and Robotics Perception Lab](https://hgchen.com/cirp-lab/).
 
-💸 Associate at the Calvin Shindo Student Venture Fund
 <!--
 **KaiGarcia/KaiGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
