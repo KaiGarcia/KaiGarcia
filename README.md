@@ -1,7 +1,7 @@
 ### Aloha 🤙
 🌺 Software engineer based in Honolulu, Hawaii
 
-🌱 I research sensors and robotics @ [Computational Imaging and Robotics Perception Lab](https://hgchen.com/cirp-lab/).
+🤖 I research sensors and robotics @ [Computational Imaging and Robotics Perception Lab](https://hgchen.com/cirp-lab/).
 
 <!--
 **KaiGarcia/KaiGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
